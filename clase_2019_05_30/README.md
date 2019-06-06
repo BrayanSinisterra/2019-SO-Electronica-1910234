@@ -16,10 +16,6 @@ La forma como se compila y se ejecuta es como sigue:
 ```
 gcc principal.c -o principal && ./compilador
 ```
-## cpu.c
 
-## mem.c
 
-## threads.c
 
-## io.c
